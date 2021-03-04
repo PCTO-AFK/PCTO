@@ -18,5 +18,6 @@ Dutto Alessandro | Grafic Designer
 Rostagno Leonardo| Level & Grafic Designer
 
 # Tecnologia utilizzata
+Unity 3d 
 
 
