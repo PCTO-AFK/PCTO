@@ -1,6 +1,6 @@
 # PCTO
 # Diario di bordo
-Diario di bordo: https://docs.google.com/spreadsheets/d/1OcYfrz8PIUcSU1602_5lVF-SGVHHAAndlfkO4M-h-Z4/edit#gid=0
+[Diario di bordo:](https://docs.google.com/spreadsheets/d/1OcYfrz8PIUcSU1602_5lVF-SGVHHAAndlfkO4M-h-Z4/edit#gid=0)
 
 # Esercizio svolto
 Svolgiamo il drawing di movimenti 
