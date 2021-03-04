@@ -13,9 +13,9 @@ L'idea è di creare un gioco simile a fruit ninja: durante lo svolgimento del gi
   ---------------|--------------------------------------------------------
 Mellano matteo   | sviluppatore
 Cerutti Cristian | sviluppatore
-Martini Paolo    | sound manager
+Martini Paolo    | sound manager\sviluppatore
 Dutto Alessandro | Grafic Designer
-Rostagno Leonardo| Level & Grafic Designer
+Rostagno Leonardo| Grafic Designer
 
 # Tecnologia utilizzata
 Unity 3d + OpenPose (Link di OpenPose: https://github.com/CMU-Perceptual-Computing-Lab/openpose)
