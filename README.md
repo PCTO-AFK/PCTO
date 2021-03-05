@@ -1,4 +1,7 @@
 # PCTO
+
+![scritta](https://user-images.githubusercontent.com/71831228/110099325-7751fa80-7da1-11eb-8dac-82da68d5d77c.png)
+
 # Diario di bordo
 [Diario di bordo](https://docs.google.com/spreadsheets/d/1OcYfrz8PIUcSU1602_5lVF-SGVHHAAndlfkO4M-h-Z4/edit#gid=0)
 
@@ -13,7 +16,6 @@ L'idea è di creare un gioco simile a fruit ninja: durante lo svolgimento vengon
 
  -Blender:
   
-  ![scritta](https://user-images.githubusercontent.com/71831228/110099325-7751fa80-7da1-11eb-8dac-82da68d5d77c.png)
   ![frutta](https://user-images.githubusercontent.com/71831228/110099583-c1d37700-7da1-11eb-9645-e105a4d768d2.png)
   
 -Schema del funzionamento del gioco:
