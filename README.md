@@ -16,7 +16,8 @@ L'idea è di creare un gioco simile a fruit ninja: durante lo svolgimento vengon
 
  -Blender:
   
-  ![frutta](https://user-images.githubusercontent.com/71831228/110099583-c1d37700-7da1-11eb-9645-e105a4d768d2.png)
+  ![frutta](https://user-images.githubusercontent.com/71831228/110133484-a5006900-7dcc-11eb-9563-25a37c3a0aaf.png)
+
   
 -Schema del funzionamento del gioco:
 
