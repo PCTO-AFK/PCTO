@@ -6,7 +6,7 @@
 Svolgiamo il drawing di movimenti 
 
 # Descrizione
-L'idea è di creare un gioco simile a fruit ninja: durante lo svolgimento del gioco vengono "tirati" dei frutti dalla parte bassa dello schermo verso l'alto, e l'obiettivo è quello di tagliarli prima che questi ricadano. In aggiunta abbiamo pensato di creare delle sequenze di frutti, i quali disegnano una forma, e che il giocatore deve tagliare in sucessione per avere punti aggiuntivi. Ogni volta che un frutto cade, viene tolta una vita e dopo un tot di vite il gioco finisce. </br>
+L'idea è di creare un gioco simile a fruit ninja: durante lo svolgimento vengono "tirati" dei frutti dalla parte bassa dello schermo verso l'alto, e l'obiettivo è quello di tagliarli prima che questi ricadano. In aggiunta abbiamo pensato di creare delle sequenze di frutti, i quali disegnano una forma, e che il giocatore deve tagliare in sucessione per avere punti aggiuntivi. Ogni volta che un frutto cade, viene tolta una vita e dopo un tot di vite il gioco finisce. </br>
 -menu
 
 ![unknown](https://user-images.githubusercontent.com/71812497/110095849-a1092280-7d9d-11eb-9402-6ab0e60e1fde.png)
