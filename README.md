@@ -30,7 +30,7 @@ Dutto Alessandro | Grafic Designer
 Rostagno Leonardo| Grafic Designer
 
 # Tecnologia utilizzata
-Unity 3d + [OpenPose](Link di OpenPose: https://github.com/CMU-Perceptual-Computing-Lab/openpose)
+Unity 3d + [OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
 
 # Ringraziamenti
  Ringraziamo IIT, Associazione Italiana Sclerosi Multipla, Università di Genova, Wondertech per la collaborazione.
