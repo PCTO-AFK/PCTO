@@ -31,6 +31,9 @@ Unity 3d + OpenPose (Link di OpenPose: https://github.com/CMU-Perceptual-Computi
   Blender:
   
   ![scritta](https://user-images.githubusercontent.com/71831228/110099325-7751fa80-7da1-11eb-8dac-82da68d5d77c.png)
+  ![frutta](https://user-images.githubusercontent.com/71831228/110099583-c1d37700-7da1-11eb-9645-e105a4d768d2.png)
+
+
 
 
   Schemi del funzionamento del gioco:
