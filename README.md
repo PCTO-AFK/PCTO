@@ -1,3 +1,4 @@
+![1](https://user-images.githubusercontent.com/71812497/110096224-00673280-7d9e-11eb-9538-be2350a7a9be.PNG)
 # PCTO
 # Diario di bordo
 [Diario di bordo](https://docs.google.com/spreadsheets/d/1OcYfrz8PIUcSU1602_5lVF-SGVHHAAndlfkO4M-h-Z4/edit#gid=0)
@@ -24,6 +25,7 @@ Unity 3d + OpenPose (Link di OpenPose: https://github.com/CMU-Perceptual-Computi
  Ringraziamo IIT, Associazione Italiana Sclerosi Multipla, Università di Genova, Wondertech per la collaborazione.
  
 # Screen e schemi
+  Menù principale:
 
 ![unknown](https://user-images.githubusercontent.com/71812497/110095849-a1092280-7d9d-11eb-9402-6ab0e60e1fde.png)
 
@@ -31,4 +33,7 @@ Unity 3d + OpenPose (Link di OpenPose: https://github.com/CMU-Perceptual-Computi
 
 ![unknown3](https://user-images.githubusercontent.com/71812497/110095837-9e0e3200-7d9d-11eb-945f-c79014e65257.png)
 
+   Schemi del funzionamento del gioco:
+
+![1](https://user-images.githubusercontent.com/71812497/110096314-1543c600-7d9e-11eb-96cb-1b0681479530.PNG)
 
