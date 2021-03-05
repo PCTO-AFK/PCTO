@@ -32,7 +32,9 @@ Unity 3d + OpenPose (Link di OpenPose: https://github.com/CMU-Perceptual-Computi
 
 ![unknown3](https://user-images.githubusercontent.com/71812497/110095837-9e0e3200-7d9d-11eb-945f-c79014e65257.png)
 
-   Schemi del funzionamento del gioco:
+  Blender:
+
+  Schemi del funzionamento del gioco:
 
 ![1](https://user-images.githubusercontent.com/71812497/110096314-1543c600-7d9e-11eb-96cb-1b0681479530.PNG)
 
