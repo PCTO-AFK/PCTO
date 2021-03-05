@@ -14,11 +14,7 @@ L'idea è di creare un gioco simile a fruit ninja: durante lo svolgimento del gi
   
   ![scritta](https://user-images.githubusercontent.com/71831228/110099325-7751fa80-7da1-11eb-8dac-82da68d5d77c.png)
   ![frutta](https://user-images.githubusercontent.com/71831228/110099583-c1d37700-7da1-11eb-9645-e105a4d768d2.png)
-
-
-
-
-  Schemi del funzionamento del gioco:
+Schema del funzionamento del gioco:
 
 ![1](https://user-images.githubusercontent.com/71812497/110096314-1543c600-7d9e-11eb-96cb-1b0681479530.PNG)
 
