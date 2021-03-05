@@ -1,4 +1,3 @@
-![1](https://user-images.githubusercontent.com/71812497/110096224-00673280-7d9e-11eb-9538-be2350a7a9be.PNG)
 # PCTO
 # Diario di bordo
 [Diario di bordo](https://docs.google.com/spreadsheets/d/1OcYfrz8PIUcSU1602_5lVF-SGVHHAAndlfkO4M-h-Z4/edit#gid=0)
