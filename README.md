@@ -33,6 +33,9 @@ Unity 3d + OpenPose (Link di OpenPose: https://github.com/CMU-Perceptual-Computi
 ![unknown3](https://user-images.githubusercontent.com/71812497/110095837-9e0e3200-7d9d-11eb-945f-c79014e65257.png)
 
   Blender:
+  
+  ![scritta](https://user-images.githubusercontent.com/71831228/110099325-7751fa80-7da1-11eb-8dac-82da68d5d77c.png)
+
 
 
 
