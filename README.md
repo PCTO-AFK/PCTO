@@ -1,6 +1,6 @@
 # PCTO
 
-![scritta](https://user-images.githubusercontent.com/71831228/110099325-7751fa80-7da1-11eb-8dac-82da68d5d77c.png)
+![AFK](https://user-images.githubusercontent.com/71812656/110466781-776e3500-80d6-11eb-8460-d36eb458a27a.PNG)
 
 # Diario di bordo
 [Diario di bordo](https://docs.google.com/spreadsheets/d/1OcYfrz8PIUcSU1602_5lVF-SGVHHAAndlfkO4M-h-Z4/edit#gid=0)
