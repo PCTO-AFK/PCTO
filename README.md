@@ -34,7 +34,7 @@ Dutto Alessandro | Grafic Designer
 Rostagno Leonardo| Grafic Designer
 
 # Tecnologia utilizzata
-Unity 3d + [OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
+Unity 3d + OpenPose
 
 ![download](https://user-images.githubusercontent.com/71812497/110132616-a8dfbb80-7dcb-11eb-9c3f-b1327254660d.png)
 
