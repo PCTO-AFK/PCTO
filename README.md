@@ -27,10 +27,10 @@ L'idea è di creare un gioco simile a fruit ninja: durante lo svolgimento vengon
 # Team & ruoli
   Nome           | Ruolo       
   ---------------|--------------------------------------------------------
-Mellano matteo   | sviluppatore
-Cerutti Cristian | sviluppatore
-Martini Paolo    | sound manager\sviluppatore
-Dutto Alessandro | Grafic Designer
+Mellano matteo   | Sviluppatore
+Cerutti Cristian | Sviluppatore
+Martini Paolo    | Sound manager\Sviluppatore
+Dutto Alessandro | Grafic/Sound Designer
 Rostagno Leonardo| Grafic Designer
 
 # Tecnologia utilizzata
