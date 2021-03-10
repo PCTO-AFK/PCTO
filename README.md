@@ -15,7 +15,7 @@ L'idea è di creare un gioco simile a fruit ninja: durante lo svolgimento vengon
 -menu
 
 <div align="center">
-    <img src="https://user-images.githubusercontent.com/71812497/110095849-a1092280-7d9d-11eb-9402-6ab0e60e1fde.png width="300">
+    <img src="https://user-images.githubusercontent.com/71812497/110095849-a1092280-7d9d-11eb-9402-6ab0e60e1fde.png" width="300">
 </div>
 
  -Blender:
