@@ -43,7 +43,7 @@ Unity 3d + OpenPose
 ![download](https://user-images.githubusercontent.com/71812497/110132616-a8dfbb80-7dcb-11eb-9c3f-b1327254660d.png)
 
 # Download Unity Project
-V.1.0: [Download on Drive](https://drive.google.com/drive/folders/1aFHKhAND7p7DqqDn5-iDTO6vV3-OqI9e?usp=sharing)
+β.1.0: [Download on Drive](https://drive.google.com/drive/folders/1aFHKhAND7p7DqqDn5-iDTO6vV3-OqI9e?usp=sharing)
 
 # Ringraziamenti
  Ringraziamo IIT, Associazione Italiana Sclerosi Multipla, Università di Genova, Wondertech per la collaborazione.
