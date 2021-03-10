@@ -1,6 +1,8 @@
 # PCTO
 
-![AFK](https://user-images.githubusercontent.com/71812656/110466781-776e3500-80d6-11eb-8460-d36eb458a27a.PNG)
+<div align="center">
+    <img src="https://github.com/PCTO-AFK/PCTO/blob/main/immagini%20wiki/AFK.PNG" width="300">
+</div>
 
 # Diario di bordo
 [Diario di bordo](https://docs.google.com/spreadsheets/d/1OcYfrz8PIUcSU1602_5lVF-SGVHHAAndlfkO4M-h-Z4/edit#gid=0)
